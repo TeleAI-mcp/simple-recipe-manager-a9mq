@@ -1,2 +1,3 @@
-# simple-recipe-manager-a9mq
-Automated issue comment bot repository
+# Simple Recipe Manager A9Mq
+
+Automated issue comment bot repository.
